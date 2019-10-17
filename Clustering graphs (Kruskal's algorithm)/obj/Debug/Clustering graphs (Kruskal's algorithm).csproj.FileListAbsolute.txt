@@ -1,0 +1,7 @@
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\bin\Debug\Clustering graphs (Kruskal's algorithm).exe.config
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\bin\Debug\Clustering graphs (Kruskal's algorithm).exe
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\bin\Debug\Clustering graphs (Kruskal's algorithm).pdb
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\obj\Debug\Clustering graphs (Kruskal's algorithm).csprojAssemblyReference.cache
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\obj\Debug\Clustering graphs (Kruskal's algorithm).csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\obj\Debug\Clustering graphs (Kruskal's algorithm).exe
+C:\Users\Дмитрий Маскин\source\repos\Clustering graphs (Kruskal's algorithm)\Clustering graphs (Kruskal's algorithm)\obj\Debug\Clustering graphs (Kruskal's algorithm).pdb
