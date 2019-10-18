@@ -144,31 +144,6 @@ namespace Clustering_graphs__Kruskal_s_algorithm_
     {
         static void Main(string[] args)
         {
-            /*Kruskal k = new Kruskal(@"6
-10
-1 2 1
-2 5 6
-1 3 3
-5 3 7
-3 4 4
-3 2 2
-2 4 5
-5 4 8
-4 6 9
-5 6 10");*/
-
-            /*Kruskal k = new Kruskal(@"5
-8
-1 3 3
-1 2 5
-1 5 7
-2 3 1
-3 5 8
-2 5 5
-5 4 3
-2 4 1
-");*/
-
             Kruskal kruskal = new Kruskal(@"12
 16
 1 2 2
