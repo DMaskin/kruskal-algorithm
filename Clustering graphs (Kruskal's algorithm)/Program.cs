@@ -203,6 +203,8 @@ namespace Clustering_graphs__Kruskal_s_algorithm_
 7 8 2
 8 9 4
 7 9 2");
+
+
 			int clusters = 3;*/
             kruskal.BuildSpanningTree(clusters);
             Console.WriteLine("Стоимость: " + kruskal.Cost);
